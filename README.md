@@ -1,7 +1,8 @@
 # Introduction to Machine Learning Engineering
 
 ## Course Info:
-This class will be offered in Spring 2021. We are designing the course upto the latest industry standards and hope to prepare our students to tackle the toughest problems in the industry as ML Engineers.
+This class will be offered in Spring 2021, in the Department of Computer Science, Tezpur University. 
+We are designing the course upto the latest industry standards and hope to prepare our undergrad students to tackle the most challenging problems in the industry as ML Engineers.
 
 ### Who is this course targeted for? 
 You are eligible to take this class for credit, if you have taken these classes before:
@@ -30,10 +31,8 @@ Notes and assignments will be handled over Github for the active class. Please n
 - Assignment-1: (Term paper, no kidding!) General survey of learning systems, pick up 3 examples of learning systems of an app/product you use, and come up with how they built a learning system to extract information from a user pipeline and use it to offer best services to the user. What would be an ideal report? An article covering the business aspects as well as complex technical details explained in a way which should be understandable to a first year undergrad. Your report, has to be good as to publish it in WSJ, as well as something you can present to your CEO.
 
 ### Week-2 : *ML Tasks and approaches: Introduction to ML system design* 
-- Classification : Theory, known and unknown applications
-- Regression : Theory, known and unknown applications
-- Clustering : Theory, known and unknown applications
-- How were traditional ML systems designed. What were the drawbacks faced? The age before deep-learning.
+- Classification, Regression and Clustering : Theory, known and unknown applications
+- How were traditional ML systems designed? What were the drawbacks faced? The age before deep-learning.
 - ML tasks in the modern world, problems and solutions.
  - Object detection and masking : self driving
  - Question answering and dialogue generation : voice assistants
@@ -47,4 +46,4 @@ Notes and assignments will be handled over Github for the active class. Please n
   - We'll design a tool for task-specific question answering using the open source tools we can find (transformers, server and client framework for chatbot, evaluation)
 
 
-(more content coming up) 
+(this will be a class of 6 week indstructions. More content coming up) 
