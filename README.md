@@ -4,7 +4,8 @@
 This class will be offered in Spring 2021. We are designing the course upto the latest industry standards and hope to prepare our students to tackle the toughest problems in the industry as ML Engineers.
 
 ## Course Contents
-- Week-1 : *ML theory and related fundamentals*
+
+### Week-1 : *ML theory and related fundamentals*
  - Learning theory
   - Frequentist versus bayesian approach for every problem
  - Types of learning
@@ -18,7 +19,7 @@ This class will be offered in Spring 2021. We are designing the course upto the 
   - Netflix recommendation engine : competition, algorithm, implementation
  - Assignment-1: (Term paper, no kidding!) General survey of learning systems, pick up 3 examples of learning systems of an app/product you use, and come up with how they built a learning system to extract information from a user pipeline and use it to offer best services to the user. What would be an ideal report? An article covering the business aspects as well as complex technical details explained in a way which should be understandable to a first year undergrad. Your report, has to be good as to publish it in WSJ, as well as something you can present to your CEO.
 
-- Week-2 : *ML Tasks and approaches: Introduction to ML system design*
+### Week-2 : *ML Tasks and approaches: Introduction to ML system design*
  - Classification : Theory, known and unknown applications
  - Regression : Theory, known and unknown applications
  - Clustering : Theory, known and unknown applications
