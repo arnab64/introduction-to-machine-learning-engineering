@@ -6,13 +6,10 @@ This class will be offered in Spring 2021. We are designing the course upto the 
 ## Course Contents
 
 ### Week-1 : *ML theory and related fundamentals*
- - Learning theory
-  - Frequentist versus bayesian approach for every problem
- - Types of learning
- - Inductive, deductive, reinforcement learning
- - Supervised and unsupervised learning
- - Learning from data and decision making frameworks
- - How to extract signals from data, and use it in a decision system. Simple example and walkthrough. 
+ - Learning theory, frequentist versus bayesian approach of learning
+ - Types of learning, Inductive, deductive, reinforcement learning
+ - Supervised and unsupervised learning and the common learning algorithm overviews and most common modern day usages
+ - Learning from data and decision making frameworks, how to extract signals from data, and use it in a decision system. Simple example and walkthrough. 
  - Fundamentals of what a lerning system does
  - Example of an learning system
   - A search engine : algorithm to implementation
