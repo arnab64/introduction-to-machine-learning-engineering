@@ -30,20 +30,32 @@ Notes and assignments will be handled over Github for the active class. Please n
  - Netflix recommendation engine : competition, algorithm, implementation
 - Assignment-1: (Term paper, no kidding!) General survey of learning systems, pick up 3 examples of learning systems of an app/product you use, and come up with how they built a learning system to extract information from a user pipeline and use it to offer best services to the user. What would be an ideal report? An article covering the business aspects as well as complex technical details explained in a way which should be understandable to a first year undergrad. Your report, has to be good as to publish it in WSJ, as well as something you can present to your CEO.
 
-### Week-2 : *ML Tasks and approaches: Introduction to ML system design* 
+### Week-2 : *ML Tasks and approaches* 
 - Classification, Regression and Clustering : Theory, known and unknown applications
 - How were traditional ML systems designed? What were the drawbacks faced? The age before deep-learning.
-- ML tasks in the modern world, problems and solutions.
- - Object detection and masking : self driving
- - Question answering and dialogue generation : voice assistants
- - Demand prediction and forecasting : rideshare
+- ML tasks in the modern world, problems and common solutions.
+- Classification methods : theory and implementation
+- Regression methods : theory and implementation
+- classification and regression model
+ - Training, Testing, Inference and examples
+- Distributed file systems and distributed processing. 
+- Map-reduce: theory, and applications, implementation (assignment-2 prep)
+- Classifier and Regressor, distributed implementation.
+- (Assignment-2) Introduction to Hadoop. Setting up a HDFS server, basic access ops, PySpark and basics of Spark jobs in Scala.  
+- Common large scale product/business problems mapped to simple classification/regression objectives.
+
+
+### Week-3 : *ML system design: Introduction*
+ - What kind of problems do ML solve usually? Scenarios and use-cases.
+ - Common learning systems and their problem definitions
+  - Object detection and masking : self driving
+  - Question answering and dialogue generation : voice assistants
+  - Demand prediction and forecasting : rideshare
  - How are the systems designed to tackle modern problems?
- - Basics of ML systems
  - The model
   - Training, Testing, Inference
  - Designing the ML inference system using task based preTrained models
  - *Example-2*
   - We'll design a tool for task-specific question answering using the open source tools we can find (transformers, server and client framework for chatbot, evaluation)
-
 
 (this will be a class of 6 week indstructions. More content coming up) 
